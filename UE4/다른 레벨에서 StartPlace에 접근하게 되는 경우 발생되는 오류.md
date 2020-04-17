@@ -4,7 +4,7 @@
 
 ---
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be95b0aa-b137-4050-badc-35071a43cbea/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be95b0aa-b137-4050-badc-35071a43cbea/Untitled.png)
+![unknown](https://user-images.githubusercontent.com/26755686/79529359-6f18a000-80a7-11ea-9045-953ddbf47df4.png)
 
 # 해결 방안
 
